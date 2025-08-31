@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Fullstack developer** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Fullstack developer** with experience in **Building solution that solve real world problem**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
