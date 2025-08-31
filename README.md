@@ -39,5 +39,5 @@ I'm a passionate **Fullstack developer** with experience in **Building solution 
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**www.linkedin.com/in/emeka-godwin-gibson-
+- **[Twitter]**https://x.com/Emexgodwin2014
